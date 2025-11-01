@@ -11,11 +11,11 @@ import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
   template: `
     <nav class="navbar">
       <div class="nav-container">
-        <h1>RealtimeKit Broadcast</h1>
-        <div class="nav-links">
+        <h1>Broadcast Zaira Live</h1>
+        <!-- <div class="nav-links">
           <a routerLink="/host" routerLinkActive="active">Host</a>
           <a routerLink="/viewer" routerLinkActive="active">Viewer</a>
-        </div>
+        </div> -->
       </div>
     </nav>
     <router-outlet />
